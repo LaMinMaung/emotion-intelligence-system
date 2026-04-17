@@ -45,6 +45,18 @@ pip install tf-keras
 ```bash
 python src/fusion/fusion_detector.py
 ```
+## Applications
+
+| Tool | Description |
+|------|-------------|
+| `fusion/fusion_detector.py` | Core fusion engine combining all 3 modalities |
+| `fusion/stress_detector.py` | Real-time stress monitoring via face + voice |
+| `fusion/confidence_scorer.py` | Interview confidence scoring with session report |
+| `fusion/interview_mode.py` | Full interview session analyzer with feedback |
+| `fusion/emotion_transitions.py` | Tracks how emotions shift over time |
+| `fusion/interpreter.py` | Natural language interpretation of fused results |
+| `audio/pitch_analyzer.py` | Pitch trend and energy level analysis from voice |
+| `vision/gaze_detector.py` | Eye gaze direction detection via webcam |
 
 ## Research Context
 
