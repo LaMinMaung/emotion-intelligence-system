@@ -64,4 +64,4 @@ Motivated by Poria et al. (2017) showing single-modality emotion recognition is 
 
 ## Author
 
-La Min Maung — built as a technical portfolio project for graduate school applications.
+La Min Maung — built as a technical portfolio project .
